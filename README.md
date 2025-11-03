@@ -1,6 +1,6 @@
 # PF-LAB-CLASS-ACTIVITY-3-PRACTICE-QUESTIONS
 lab class activity three, all practice questions
-ND Arrays and Nested Loops Practice Questions  
+## ND Arrays and Nested Loops Practice Questions  
 1. Write a C program that performs complete matrix analysis on a 3×3 matrix. Your program should 
 handle all major operations including transpose, determinant, cofactor, adjoint, and inverse 
 using only nested loops. Ensure that all stages are clearly displayed.  
@@ -34,8 +34,7 @@ elements are processed.
 5. Implement a C program that manages a 3×3×3 matrix set and examines layer similarity. Your 
 program should determine whether different 2D layers within the 3D array are identical or 
 distinct, reporting comparisons comprehensively.  
-2DARRAYS AND NESTED LOOPS ARE NOT ALLOWED TO BE USED FOR SOLVING THE 
-FOLLOWING EXERCISES.  
+## 2DARRAYS AND NESTED LOOPS ARE NOT ALLOWED TO BE USED FOR SOLVING THE FOLLOWING EXERCISES.  
 1. Write a C program that takes 5 integers in an array and shifts all elements one position to the right 
 and moves the last element to the first position.  
 Example:  
